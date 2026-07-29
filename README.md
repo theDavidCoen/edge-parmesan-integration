@@ -1,6 +1,6 @@
-# Edge × Parmesan integration
+# Edge: BTC ↔ Arkade ↔ Rootstock (RBTC) integration
 
-Public reference for Edge developers reviewing the **BTC ↔ Arkade ↔ Rootstock (RBTC)** cross-chain prototype in Edge wallet. This work was done by **David Coen** with [Cursor](https://cursor.com) as a demo (**Edge Parmesan** APK, `app.edge.parmesan`) on top of Edge `4.50.0`.
+Public reference for Edge developers reviewing the **BTC ↔ Arkade ↔ Rootstock (RBTC)** cross-chain prototype in Edge wallet. This work was done by **David Coen** with [Cursor](https://cursor.com) as a demo build on top of Edge `4.50.0`.
 
 **Share this repo** with Edge staff; code lives in the branches linked below.
 
